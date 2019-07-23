@@ -8,7 +8,7 @@ import (
 	"github.com/coredns/coredns/plugin"
 	"github.com/coredns/proxy"
 
-	"github.com/caddyserver/caddy/caddy"
+	"github.com/caddyserver/caddy"
 	"github.com/miekg/dns"
 )
 
